@@ -34,7 +34,7 @@ The repository contains the following core files, enabling full project reproduc
 | `cafe_sales_data.csv` | (The original cleaned dataset used for both the ML model and the BI analysis). |
 | `dashboard_screenshot.png` | (A visual snapshot of the final Power BI dashboard for quick viewing). |
 
-## 📊 Dashboard Visuals (Snapshot)
+## 📊 Dashboard Visuals 
 
 *(Place your main dashboard image here)*
 
@@ -46,7 +46,7 @@ The repository contains the following core files, enabling full project reproduc
 ---
 
 ### 📧 Contact
-Created by **[Khalid Alammari]** - Connect with me on [linkedin.com/in/khalid-alammari-
- or Email Khalid.A.Alammari@gmail.com]!
+Created by **[Khalid Alammari]** - Connect with me on [linkedin.com/in/khalid-alammari-]
+ or Email [Khalid.A.Alammari@gmail.com]!
 
 
