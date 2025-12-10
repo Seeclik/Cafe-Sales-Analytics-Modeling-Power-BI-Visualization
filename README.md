@@ -7,6 +7,12 @@ This project presents an **end-to-end analytics solution** for a local café's t
 
 The aim is to transform raw sales data into actionable business intelligence, helping the café understand revenue drivers, seasonality, and customer behavior.
 
+## 📦 Dataset Source
+
+The raw data utilized for this analysis and modeling comes from the following public source:
+
+🔗 **Kaggle Dataset:** [Dirty Cafe Sales Dataset] -> https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data
+
 ## 🛠️ Technology Stack
 * **Data Cleaning & Modeling:** Python (Google Colab, Pandas, NumPy)
 * **Predictive Models:** Scikit-learn, **XGBoost**, Linear Regression, K-Nearest Neighbors (KNN)
