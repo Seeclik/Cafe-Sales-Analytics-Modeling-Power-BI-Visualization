@@ -38,22 +38,15 @@ The repository contains the following core files, enabling full project reproduc
 
 *(Place your main dashboard image here)*
 
-![Dashboard Snapshot](dashboard_screenshot.png)
+![Dashboard Snapshot](Cafe_Sales-Dashboard.png)
 *Figure 1: Main Dashboard Overview showing KPIs, Quarterly Trends, and Revenue Breakdown.*
 
-## ⚙️ How to Run the Project
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [Insert Your GitHub Repo URL Here]
-    ```
-2.  **Run the ML Model:**
-    * Open the `cafe_sales.ipynb` file in Google Colab or Jupyter Notebook.
-    * Run all cells to execute the data processing, train the ML models (KNN, LR, XGBoost), and view the prediction metrics.
-3.  **View the Dashboard:**
-    * Open the `cafe_sales.pbix` file using Power BI Desktop to interact with the final visualizations and analysis.
 
 ---
 
 ### 📧 Contact
-Created by **[Your Name]** - Connect with me on [Insert Your LinkedIn or Email Link Here]!
+Created by **[Khalid Alammari]** - Connect with me on [linkedin.com/in/khalid-alammari-
+ or Email Khalid.A.Alammari@gmail.com]!
+
+
