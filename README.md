@@ -43,7 +43,6 @@ The repository contains the following core files, enabling full project reproduc
 
 
 ![Dashboard Snapshot](Cafe_Sales-Dashboard.png)
-Main Dashboard Overview showing KPIs, Quarterly Trends, and Revenue Breakdown.*
 
 
 
@@ -51,6 +50,6 @@ Main Dashboard Overview showing KPIs, Quarterly Trends, and Revenue Breakdown.*
 
 ### 📧 Contact
 Created by **[Khalid Alammari]** - Connect with me on [linkedin.com/in/khalid-alammari-]
- or Email [Khalid.A.Alammari@gmail.com]!
+ or Email [Khalid.A.Alammari@gmail.com]
 
 
