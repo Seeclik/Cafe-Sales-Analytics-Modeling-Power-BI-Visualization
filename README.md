@@ -31,8 +31,7 @@ The repository contains the following core files, enabling full project reproduc
 | :--- | :--- |
 | **`cafe_sales.ipynb`** | **Python Notebook (Google Colab):** Contains all steps for data cleaning, feature engineering, ML model building, comparison, and forecasting. |
 | **`cafe_sales.pbix`** | **Power BI Dashboard:** The final interactive report with calculated DAX measures, time dimensions, and visualizations. |
-| `cafe_sales_data.csv` | (The original cleaned dataset used for both the ML model and the BI analysis). |
-| `dashboard_screenshot.png` | (A visual snapshot of the final Power BI dashboard for quick viewing). |
+| `Cafe_Sales-Dashboard.png` | (A visual snapshot of the final Power BI dashboard for quick viewing). |
 
 ## 📊 Dashboard Visuals 
 
