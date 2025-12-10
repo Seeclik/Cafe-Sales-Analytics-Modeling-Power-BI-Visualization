@@ -35,10 +35,9 @@ The repository contains the following core files, enabling full project reproduc
 
 ## 📊 Dashboard Visuals 
 
-*(Place your main dashboard image here)*
 
 ![Dashboard Snapshot](Cafe_Sales-Dashboard.png)
-*Figure 1: Main Dashboard Overview showing KPIs, Quarterly Trends, and Revenue Breakdown.*
+Main Dashboard Overview showing KPIs, Quarterly Trends, and Revenue Breakdown.*
 
 
 
