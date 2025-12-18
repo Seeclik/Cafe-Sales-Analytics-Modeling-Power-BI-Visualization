@@ -47,7 +47,7 @@ The repository contains the following core files, enabling full project reproduc
 ---
 
 ### 📧 Contact
-Created by **[Khalid Alammari]** - Connect with me on [linkedin.com/in/khalid-alammari-]
+Created by **[Khalid Alammari]** - Connect with me on [Linkedin](https://www.linkedin.com/in/khalid-alammari-/)
  or Email [Khalid.A.Alammari@gmail.com]
 
 
